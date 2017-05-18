@@ -4,4 +4,4 @@
 
 文章：[请到issues查看](https://github.com/NsNe/blog/issues)
 
-欢迎watch和star哦
+欢迎watch和star哦！！！
